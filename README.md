@@ -1,6 +1,6 @@
 # README
 
-<h1 align="center">Hi 👋, I'm Fatih Battal</h1>
+<h1 align="center">Hi 👋 I'm Fatih Battal</h1>
 <h3 align="center">Digital Marketing Specialist</h3>
 
 
@@ -22,7 +22,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://fatihbattal.com.tr"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
+<a href="https://fatihbattal.com.tr"><img src=https://img.shields.io/badge/website-1DA1F2.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
 <a href="https://twitter.com/fatihlattab"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/fatihbtt"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@fatihbattal/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
