@@ -1,23 +1,31 @@
 # README
 
-### Hi there 👋, I'm Fatih Battal
-#### I'm Marketing Specialist & Python Lover
-I have passion about learning new things like Marketing, Python, Research and more! Feel free to contact me!
-
-Skills: HTML / CSS / Python / Nginx 
-
-- 🔭 I’m currently working on Dijital Yardımcım - Marketing Company 
-- 🌱 I’m currently learning Python Language. 
-- 💬 Ask me about Linux, Nginx, Servers and Hosting Control Panels 
-- 📫 How to reach me: ben@fatihbattal.com.tr 
+<h1 align="center">Hi 👋, I'm Fatih Battal</h1>
+<h3 align="center">Digital Marketing Specialist</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fatihlattab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fatihbtt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fatihstag/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fatihbtt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hookingshadow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fatihbattal.com.tr)  
+### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihlattab&show_icons=true)  
+<p align="center">
+<a href="https://github.com/fatihlattab">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatihlattab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihlattab&show_icons=true&locale=en&&theme=algolia" alt="MuratSs" />
+</a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fatihlattab)  
+<p align="center"> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fatihlattab)  
+<img src="https://komarev.com/ghpvc/?username=fatihlattab&label=Profile%20views&color=0e75b6&style=flat" alt="akiffeyzioglu" />
 
-![Profile views](https://gpvc.arturio.dev/fatihlattab)  
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://fatihbattal.com.tr)
+<a href="https://medium.com/@fatihbattal/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://twitter.com/fatihlattab"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/fatihbtt"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@fatihbattal/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:ben@fatibattal.com.tr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+</p>
