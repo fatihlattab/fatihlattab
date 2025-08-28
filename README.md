@@ -1,7 +1,7 @@
 # README
 
-<h1 align="center">Hi 👋 I'm Fatih Battal</h1>
-<h3 align="center">Digital Marketing Specialist</h3>
+<h1 align="center">Hi 👋 I'm Fatih</h1>
+<h3 align="center">Marketing Director</h3>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
