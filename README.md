@@ -9,7 +9,6 @@
 <p align="center">
 <a href="https://github.com/fatihlattab">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatihlattab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihlattab&show_icons=true&locale=en&&theme=algolia" alt="MuratSs" />
 </a>
 </p>
 
